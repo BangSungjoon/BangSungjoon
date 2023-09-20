@@ -1,5 +1,7 @@
 ### 🙇 안녕하세요, AI Back-end Programmer로 성장해나가고 있는 방성준입니다!
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBangSungjoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **BangSungjoon/BangSungjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
