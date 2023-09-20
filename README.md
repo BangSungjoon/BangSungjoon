@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🙇 안녕하세요, AI Back-end Programmer로 성장해나가고 있는 방성준입니다!
 
 <!--
 **BangSungjoon/BangSungjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
