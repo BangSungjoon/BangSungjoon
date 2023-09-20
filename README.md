@@ -22,7 +22,7 @@
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
-### Top Langs
+### 📖 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BangSungjoon&layout=compact)
 <!--
 **BangSungjoon/BangSungjoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
