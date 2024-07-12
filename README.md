@@ -2,9 +2,10 @@
 
 ### 🙇 안녕하세요, Python 개발을 공부하는 방성준입니다!
 머신러닝으로 개발에 관심을 가지게 되었고, <br>6개월간의 AI python back-end 과정을 수료한 뒤 현재 SSAFY 12기에 참여 중입니다.
+
 <div style="text-align: right">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBangSungjoon&count_bg=%23A4EAEA&title_bg=%231651D6&icon=&icon_color=%23FCFCFC&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBangSungjoon&count_bg=%23A4EAEA&title_bg=%231651D6&icon=&icon_color=%23FCFCFC&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://github.com/BangSungjoon)
 
 </div>
 
