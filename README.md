@@ -36,8 +36,11 @@
 
 ---
 ### 👯 Projects
-[캠핑장 추천 검색 사이트](https://github.com/BangSungjoon/Camping)<br>
-[AI 운동 루틴 분석 / 식단 관리 서비스](https://github.com/lifelong-learner-dev/unsik)
+- [캠핑어때](https://github.com/BangSungjoon/Camping)<br>
+  전국의 캠핑장 정보를 가져와서 검색 조건에 맞는 목록을 보여주고, 회원별 예약 관리를 도와주는 서비스 입니다.<br> 지도, 날씨 API를 받아와 캠핑장 위치에 맞는 정보를 보여주는 기능을 추가 하였습니다. <br><br>
+- [UNSIK](https://github.com/lifelong-learner-dev/unsik)<br>
+  벌크업이나 다이어트를 원하는 사람을 위한 서비스 입니다. <br>
+  사용자 신체 정보와 운동 기록을 직접 학습 시킨 칼로리 예측 모델에 넣어 운동 소비 칼로리를 예측합니다. 식사를 촬영하면 이미지 분석 모델을 통해 칼로리를 알 수 있고 식단 기록을 도와줍니다. 칼로리 계산과 기록을 통해 몸무게를 예측 해보세요!
 
 ---
 ### 📖 Top Langs
