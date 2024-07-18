@@ -13,7 +13,7 @@
 ### 🏃 Let me introduce!
 **MBTI** : ISTP <br>
 **Major** : 전기전자제어공학과 <br>
-**Favorite thing** : 맛있는 것 먹기, 연극
+**Favorite thing** : 연극
 
 ---
 ### 💪 Skills
