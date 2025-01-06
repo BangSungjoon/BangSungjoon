@@ -1,6 +1,6 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Sungjoon's%20Github!&fontAlign=50&fontAlignY=40&color=gradient)
 
-### 🙇 안녕하세요, Python 개발을 공부하는 방성준입니다!
+### 🙇 안녕하세요, Programmer를 꿈꾸는 방성준입니다!
 머신러닝으로 개발에 관심을 가지게 되었고, <br>6개월간의 AI python back-end 과정을 수료한 뒤 현재 SSAFY 12기에 참여 중입니다.
 
 <div align="right">
@@ -13,7 +13,8 @@
 ### 🏃 Let me introduce!
 **MBTI** : ISTP <br>
 **Major** : 전기전자제어공학과 <br>
-**Favorite thing** : 연극
+**Favorite thing** : 연극 <br>
+**activity** : [알고리즘 스터디](https://github.com/BangSungjoon/Algorithm_Study)
 
 ---
 ### 💪 Skills
@@ -34,6 +35,8 @@
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
+**[📚 Today I Learned](https://github.com/BangSungjoon/TIL)**<BR>
+
 ---
 ### 👯 Projects
 - [캠핑어때](https://github.com/BangSungjoon/Camping)<br>
@@ -41,6 +44,12 @@
 - [UNSIK](https://github.com/lifelong-learner-dev/unsik)<br>
   벌크업이나 다이어트를 원하는 사람을 위한 서비스 입니다. <br>
   사용자 신체 정보와 운동 기록을 직접 학습 시킨 칼로리 예측 모델에 넣어 운동 소비 칼로리를 예측합니다. 식사를 촬영하면 이미지 분석 모델을 통해 칼로리를 알 수 있고 식단 기록을 도와줍니다. 칼로리 계산과 기록을 통해 몸무게를 예측 해보세요!
+- [싕주](https://github.com/BangSungjoon/final-pjt)
+  <br>
+  금융 포트폴리오 추천과 금융 상품 정보를 손쉽게 받아볼 수 있는 서비스입니다.
+  <br>
+  Django REST Framework와 Vue3로 구성한 페어 프로젝트입니다.
+  SSAFY 12기 1학기 최종 프로젝트로 진행하였으며, 우수상을 수상했습니다.
 
 ---
 ### 📖 Top Langs
